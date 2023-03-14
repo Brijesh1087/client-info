@@ -52,7 +52,7 @@ const posts = (len) => {
 
                         'user':user,
 
-                        'date':`${manth} ${day} ,2023 ${month}:${day}`
+                        'date':`${manth} ${day} ,2023 ${manth}:${day}`
 
                 }
 
